@@ -1,4 +1,4 @@
----
+github:main--
 title: Opening an issue from a comment
 intro: You can open a new issue from a specific comment in an issue or pull request.
 permissions: 'People with read permissions can create an issue in a repository where issues are enabled.'
